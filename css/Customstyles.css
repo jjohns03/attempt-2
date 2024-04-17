@@ -1,0 +1,15 @@
+.bg-primary{
+    background-color: cadetblue !important;
+}
+
+.text-primary{
+    color: cadetblue !important;
+}
+
+a{
+    color: cadetblue;
+}
+
+body{
+    background-color: aliceblue;
+}
